@@ -6,7 +6,7 @@ I am currently pursuing a degree in software engineering.
 I am proficient with HTML, CSS, JavaScript, Python, and navigating the WordPress world.
 Always eager to learn and adapt to new technologies.
 🔧 Tech Stack:
-    -HTML, CSS, JavaScript, Python, and WordPress.
+    -HTML, CSS, JavaScript, Python, java and WordPress.
 
 💼 Education:
    - Third-year Software Engineering student.
