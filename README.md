@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning the fundamentals  and principles of software engineering <br>I am looking to collaborate on any community-oriented program, mostly web development and system development<br><br>I am currently learning Python, and I want to major in Python development, mostly as a Django developer, though  not limited to it <br>Well, ask me about Java, Python, artificial intelligence, and Machine Learning<br>I feel scared that people will know I use the console for debugging 
+I am currently learning the fundamentals  and principles of Machine learning<br>I am looking to collaborate on any community-oriented program, mostly web development and system development<br><br>I am currently learning Python, and I want to major in Python development, mostly as a Django developer, though  not limited to it <br>Well, ask me about Java, Python, artificial intelligence, and Machine Learning<br>I feel scared that people will know I use the console for debugging 
 
 
 ## 🌐 Socials:
